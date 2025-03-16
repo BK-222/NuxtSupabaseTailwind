@@ -13,9 +13,10 @@
     "@nuxt/image": "^1.8.0",
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/i18n": "^8.5.5",
+    "@nuxtjs/seo": "^3.0.1",
     "@pinia/nuxt": "^0.5.4",
     "@supabase/supabase-js": "^2.49.1",
-    "nuxt": "^3.13.0",
+    "nuxt": "^3.16.0",
     "pinia": "^2.2.2",
     "vue": "latest"
   },
